@@ -6,4 +6,4 @@ this is for the testing the conflicts in git
 
 
 this is for the testing the second time conflicts in git 
-from branch commit...
+from branch commit...  ddd
